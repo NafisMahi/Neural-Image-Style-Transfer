@@ -1,7 +1,5 @@
 # Neural-Image-Style-Transfer
 
-# Neural Style Transfer Project
-
 This project is inspired by the seminal paper from Gatys et al., on neural style transfer. The goal of this project is to explore and implement the neural style transfer technique where the style of one image is combined with the content of another using convolutional neural networks.
 
 ## Repository Structure
